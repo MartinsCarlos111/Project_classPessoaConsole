@@ -1,0 +1,16 @@
+C:\Users\2jdmtec\Desktop\Danilo e Carlos\Projeto_Carlos_Danilo02.08\Projeto_Carlos_Danilo02.08\obj\Debug\Projeto_Carlos_Danilo02.08.csproj.AssemblyReference.cache
+C:\Users\2jdmtec\Desktop\Danilo e Carlos\Projeto_Carlos_Danilo02.08\Projeto_Carlos_Danilo02.08\obj\Debug\Projeto_Carlos_Danilo02.08.csproj.SuggestedBindingRedirects.cache
+C:\Users\2jdmtec\Desktop\Danilo e Carlos\Projeto_Carlos_Danilo02.08\Projeto_Carlos_Danilo02.08\obj\Debug\Projeto_Carlos_Danilo02.08.csproj.CoreCompileInputs.cache
+C:\Users\2jdmtec\Desktop\Danilo e Carlos\Projeto_Carlos_Danilo02.08\Projeto_Carlos_Danilo02.08\bin\Debug\Projeto_Carlos_Danilo02.08.exe.config
+C:\Users\2jdmtec\Desktop\Danilo e Carlos\Projeto_Carlos_Danilo02.08\Projeto_Carlos_Danilo02.08\bin\Debug\Projeto_Carlos_Danilo02.08.exe
+C:\Users\2jdmtec\Desktop\Danilo e Carlos\Projeto_Carlos_Danilo02.08\Projeto_Carlos_Danilo02.08\bin\Debug\Projeto_Carlos_Danilo02.08.pdb
+C:\Users\2jdmtec\Desktop\Danilo e Carlos\Projeto_Carlos_Danilo02.08\Projeto_Carlos_Danilo02.08\obj\Debug\Projeto_Carlos_Danilo02.08.exe
+C:\Users\2jdmtec\Desktop\Danilo e Carlos\Projeto_Carlos_Danilo02.08\Projeto_Carlos_Danilo02.08\obj\Debug\Projeto_Carlos_Danilo02.08.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\Projeto_Carlos_Danilo02.08-20220820T235617Z-001\Projeto_Carlos_Danilo02.08\Projeto_Carlos_Danilo02.08\obj\Debug\Projeto_Carlos_Danilo02.08.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\Projeto_Carlos_Danilo02.08-20220820T235617Z-001\Projeto_Carlos_Danilo02.08\Projeto_Carlos_Danilo02.08\obj\Debug\Projeto_Carlos_Danilo02.08.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\Projeto_Carlos_Danilo02.08-20220820T235617Z-001\Projeto_Carlos_Danilo02.08\Projeto_Carlos_Danilo02.08\obj\Debug\Projeto_Carlos_Danilo02.08.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\Projeto_Carlos_Danilo02.08-20220820T235617Z-001\Projeto_Carlos_Danilo02.08\Projeto_Carlos_Danilo02.08\obj\Debug\Projeto_Carlos_Danilo02.08.exe
+C:\Users\carlo\OneDrive\Área de Trabalho\Projeto_Carlos_Danilo02.08-20220820T235617Z-001\Projeto_Carlos_Danilo02.08\Projeto_Carlos_Danilo02.08\obj\Debug\Projeto_Carlos_Danilo02.08.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\Projeto_Carlos_Danilo02.08-20220820T235617Z-001\Projeto_Carlos_Danilo02.08\Projeto_Carlos_Danilo02.08\bin\Debug\Projeto_Carlos_Danilo02.08.exe.config
+C:\Users\carlo\OneDrive\Área de Trabalho\Projeto_Carlos_Danilo02.08-20220820T235617Z-001\Projeto_Carlos_Danilo02.08\Projeto_Carlos_Danilo02.08\bin\Debug\Projeto_Carlos_Danilo02.08.exe
+C:\Users\carlo\OneDrive\Área de Trabalho\Projeto_Carlos_Danilo02.08-20220820T235617Z-001\Projeto_Carlos_Danilo02.08\Projeto_Carlos_Danilo02.08\bin\Debug\Projeto_Carlos_Danilo02.08.pdb
