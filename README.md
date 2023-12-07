@@ -9,9 +9,13 @@ This C# console application is designed to manage information about individuals,
 The Person class has the following private attributes:
 
 **name:** Person's name.
+
 **age:** Person's age.
+
 **height:** Person's height.
+
 **gender:** Person's gender.
+
 It includes two constructors, one without parameters and another with parameters to initialize the class attributes.
 
 The calculateIdealWeight method calculates the ideal weight based on the person's height and gender, using different formulas for men and women.
